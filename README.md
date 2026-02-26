@@ -13,7 +13,7 @@
 
 ## 🎯 Live Demo
 
-**👉 [Try it now: https://6648f1f78220c70e48.gradio.live](https://rahullalwani7-model-forge.hf.space)**
+**👉 [Try it now: https://rahullalwani7-model-forge.hf.space](https://rahullalwani7-model-forge.hf.space)**
 
 Upload any classroom image → Get instant bounding box detections + student count.
 
